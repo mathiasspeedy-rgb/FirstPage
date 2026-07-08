@@ -1,4 +1,6 @@
-# Mathias Gonzalez Gomez
+![Picture](logo.png "Profile Pic") 
+
+# Mathias Gonzalez Gomez 
 
 ## Who am I?
 
@@ -7,8 +9,13 @@
 * I was born in 1999 in Belgium
 * I am passionate about programmation and data manipulation
 
-### Studies
-Currently studying data engineering
+### Experience
+
+* Maintenance Technician and Cook (big fast food company)
+* Remedial Courses in Maths
+
+
+
 
 #### Proximate new competences
 
