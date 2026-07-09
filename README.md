@@ -53,6 +53,8 @@ Currently studying data engineering
 
 * Sudoku Generator
 
+    ["Télécharger Sudoku"](./sudoku.zip)
 * Mini RPG Game (without interface)
 
+    ["Télécharger RPG"](./RPG.zip)
 * TFE (not done yet)
