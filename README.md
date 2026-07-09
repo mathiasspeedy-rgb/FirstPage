@@ -53,8 +53,8 @@ Currently studying data engineering
 
 * Sudoku Generator
 
-    - [Downlo Sudoku](https://github.com/mathiasspeedy-rgb/FirstPage/raw/refs/heads/main/sudoku.zip)
+    - [Download Sudoku](https://github.com/mathiasspeedy-rgb/FirstPage/raw/refs/heads/main/sudoku.zip)
 * Mini RPG Game (without interface)
 
-    - [Télécharger RPG](https://github.com/mathiasspeedy-rgb/FirstPage/raw/refs/heads/main/RPG.zip)
+    - [Download RPG](https://github.com/mathiasspeedy-rgb/FirstPage/raw/refs/heads/main/RPG.zip)
 * TFE (not done yet)
