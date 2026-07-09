@@ -52,5 +52,13 @@ Currently studying data engineering
 ## Projects
 
 * Sudoku Generator
+
+    [Sudoku](sudoku.zip)
+
+
 * Mini RPG Game (without interface)
+
+    [RPG](RPG.zip)
+
+
 * TFE (not done yet)
