@@ -24,24 +24,30 @@ Currently studying data engineering
 * Remedial Courses in Maths
 
 
+## My Technical Skills
 
-
-#### Proximate new competences
-
+### Data
+* MySQL
+* Cloud
+* Apache Airflow
+* NoSQL (bases)
+* Pandas / Polars
+* Big Data (Spark / Hadoop / Kafka)
+* ETL
+#### Microsoft Environnement
+* SQL Server Manager Services
+* SQL Server Integration Service (ETL)
 * Azure
-* Spark
-* Apache Overflow
-* NoSQL
-* ...
+  
+### Programming
+* Python
+* JavaScript (bases)
+* HTML
+* SQL / TSQL
 
-## What are my competence
-
-### IT
-* T-SQL
-* Python OO
-* Javascript (bases)
-* HTML and C++ (bases)
-* Hardware and other bases in IT
+### Hardware
+* IT infrastructure Installation and Management
+* Managing and Optimising computer ressources
 
 ### Languages
 * French (native)
@@ -51,9 +57,13 @@ Currently studying data engineering
 
 ## Projects
 
-* Sudoku Generator
+* Small ETL (Chinook) in SQL 
+    - [Download Sudoku]()
 
+* Sudoku Generator
+    
     - [Download Sudoku](https://github.com/mathiasspeedy-rgb/FirstPage/raw/refs/heads/main/sudoku.zip)
+    
 * Mini RPG Game (without interface)
 
     - [Download RPG](https://github.com/mathiasspeedy-rgb/FirstPage/raw/refs/heads/main/RPG.zip)
