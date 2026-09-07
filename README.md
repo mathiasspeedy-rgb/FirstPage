@@ -58,7 +58,7 @@ Currently studying data engineering
 ## Projects
 
 * Small ETL (Chinook) in SQL 
-    - [Download Sudoku]()
+    - [link_incoming]()
 
 * Sudoku Generator
     
