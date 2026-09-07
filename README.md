@@ -57,8 +57,11 @@ Currently studying data engineering
 
 ## Projects
 
+* ETL SQL and SSIS fatal_police_shooting
+    - [Link_incoming]()
+
 * Small ETL (Chinook) in SQL 
-    - [link_incoming]()
+    - [Link_incoming]()
 
 * Sudoku Generator
     
