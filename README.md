@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-Passionate about data architecture, dimensional modeling, and building resilient end-to-end data pipelines. Actively seeking a **3 to 6-month internship** or an entry-level position as a **Junior Data Engineer**.
+Passionate about datas, dimensional modeling,coding, and building resilient end-to-end data pipelines. Actively seeking a **3 to 6-month internship** or an entry-level position as a **Junior Data Engineer**.
 
 - 🎓 **Data Engineering Training (2026)**: Medallion architecture (Bronze/Silver/Gold), star/snowflake schemas (SCD Type 1 & 2), workflow orchestration, and resilient ETL/ELT pipelines.
 - 🛠️ **Technical Background**: Solid IT foundation (CESS & CQ6 Don Bosco), strong algorithmic logic in Python, and analytical problem-solving skills.
