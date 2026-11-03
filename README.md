@@ -1,4 +1,4 @@
-![Picture](Pics\logo.png "Profile Pic") 
+![Picture](Pics/logo.png "Profile Pic") 
 
 # Mathias Gonzalez Gomez 
 
