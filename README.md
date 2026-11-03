@@ -30,24 +30,24 @@ Passionate about data architecture, dimensional modeling, and building resilient
 
 <p align="left">
   <b>Languages & Querying</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL%20%2F%20T--SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+  <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference" target="_blank"><img src="https://img.shields.io/badge/SQL%20%2F%20T--SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" /></a>
 </p>
 
 <p align="left">
   <b>Data Engineering & Orchestration</b><br/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SSIS" />
+  <a href="https://airflow.apache.org/docs/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" /></a>
+  <a href="https://docs.pola.rs/" target="_blank"><img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" /></a>
+  <a href="https://pandas.pydata.org/docs/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
+  <a href="https://spark.apache.org/docs/latest/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" /></a>
+  <a href="https://kafka.apache.org/documentation/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" /></a>
+  <a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services" target="_blank"><img src="https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SSIS" /></a>
 </p>
 
 <p align="left">
   <b>Databases, DevOps & Tools</b><br/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank"><img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></a>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 </p>
 
 ---
@@ -67,6 +67,8 @@ Passionate about data architecture, dimensional modeling, and building resilient
 | :--- | :--- | :--- | :--- |
 | **⚔️ Object-Oriented Terminal RPG** | Turn-based RPG built from scratch featuring state management, modular inventory system, combat balance algorithms, and custom game loops. | `Python` `OOP` | [View Project](https://github.com/mathiasspeedy-rgb/RPG) |
 | **🔢 Sudoku Generator & Solver** | Backtracking-based puzzle solver with board state validation and dynamic difficulty puzzle generation. | `Python` `Algorithms` `OOP` | [View Project](https://github.com/mathiasspeedy-rgb/Sudoku) |
+
+---
 
 ### 📬 Contact & Links
 - **GitHub:** [github.com/mathiasspeedy-rgb](https://github.com/mathiasspeedy-rgb)
