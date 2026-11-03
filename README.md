@@ -1,4 +1,4 @@
-![Picture](logo.png "Profile Pic") 
+![Picture](Pics\logo.png "Profile Pic") 
 
 # Mathias Gonzalez Gomez 
 
@@ -7,20 +7,20 @@
 ### Myself
 
 * I was born in 1999 in Belgium
-* I am passionate about programmation and data manipulation
+* I am passionate about data manipulation and programmation
 
 ### Formation
-Currently studying data engineering
+Seeking for internship as Data Engineer
 
-* 2026-Now  : Data engineer
+* 2026-Now  : Data Engineer
 * 2023-2025 : Comptability
 * 2021-2022 : Math Teacher
-* 2019-2021 : IT - Management
+* 2019-2021 : IT-Programmation
 * 2011-2017 : Secondary School (Technician IT)
 
 ### Experience
 
-* Maintenance Technician and Cook (big fast food company)
+* Maintenance Technician and Cook (Fast food company)
 * Remedial Courses in Maths
 
 
@@ -43,7 +43,7 @@ Currently studying data engineering
 * Python
 * JavaScript (bases)
 * HTML
-* SQL / TSQL
+* SQL
 
 ### Hardware
 * IT infrastructure Installation and Management
@@ -57,17 +57,22 @@ Currently studying data engineering
 
 ## Projects
 
+* Link to All Projects : 
+    - [Go to Projects](Projects)
+
+* TFE NBA Pipeline:
+    - [Go to TFE NBA](Projects/tfe/first_repos/)
+
 * ETL SQL and SSIS fatal_police_shooting
-    - [Download ETL_fatal_police_shooting](https://github.com/mathiasspeedy-rgb/FirstPage/raw/refs/heads/main/etl_fatal_police_shooting.zip)
+    - [Download ETL_fatal_police_shooting](Projects/zip/etl_fatal_police_shooting.zip)
 
 * Small ETL (Chinook) in SQL 
-    - [Link_incoming]()
+    - [Link_incoming](Projects/zip/)
 
 * Sudoku Generator
     
-    - [Download Sudoku](https://github.com/mathiasspeedy-rgb/FirstPage/raw/refs/heads/main/sudoku.zip)
+    - [Download Sudoku](Projects/zip/sudoku.zip)
     
 * Mini RPG Game (without interface)
 
-    - [Download RPG](https://github.com/mathiasspeedy-rgb/FirstPage/raw/refs/heads/main/RPG.zip)
-* TFE (not done yet)
+    - [Download RPG](Projects/zip/RPG.zip)
