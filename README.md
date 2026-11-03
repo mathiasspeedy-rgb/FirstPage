@@ -58,9 +58,8 @@ Passionate about data architecture, dimensional modeling, and building resilient
 
 | Project | Highlights & Architecture | Core Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **🏀 NBA Analytics Pipeline (Capstone)** | Architecture Medallion (Bronze/Silver/Gold) de bout en bout. Ingestion automatisée, comparatif de performance Polars vs SQL, gestion SCD et orchestration DAGs Airflow conteneurisés. | `Python` `Polars` `SQL Server` `Airflow` `Docker` | [NBA_Pipeline](https://github.com/mathiasspeedy-rgb/NBA_ETL_Pipeline)] |
-| **🚨 Fatal Police Shooting Pipeline** | Pipeline ETL avec nettoyage de données, déduplication (fuzzy matching), enrichissement démographique et modélisation en Data Warehouse relationnel. | `Python` `SQL Server` `T-SQL` | [mathiasspeedy-rgb/fatal-shooting-pipeline](https://github.com/mathiasspeedy-rgb/fatal-shooting-pipeline) |
-| **📦 Fatal Police Shooting (SSIS Edition)** | Implémentation du DWH avec les outils Microsoft BI : packages SSIS, flux de contrôle/données, historisation SCD Type 2 et transformations T-SQL. | `SSIS` `SQL Server` `T-SQL` | [mathiasspeedy-rgb/fatal-shooting-pipeline-ssis](https://github.com/mathiasspeedy-rgb/fatal-shooting-pipeline-ssis) |
+| **🏀 NBA Analytics Pipeline (Capstone)** | Architecture Medallion (Bronze/Silver/Gold) de bout en bout. Ingestion automatisée, comparatif de performance Polars vs SQL, gestion SCD et orchestration DAGs Airflow conteneurisés. | `Python` `Polars` `SQL Server` `Airflow` `Docker` | [View Project](https://github.com/mathiasspeedy-rgb/NBA_ETL_Pipeline) |
+| **🚨 Fatal Police Shooting Pipeline** | Pipeline ETL avec nettoyage de données, déduplication (fuzzy matching), enrichissement démographique et modélisation en Data Warehouse relationnel. | `SSIS` `SQL Server` `T-SQL` | [View Project](https://github.com/mathiasspeedy-rgb/Fatal_Shooting_Pipeline_SSIS) |
 
 ---
 
@@ -68,8 +67,8 @@ Passionate about data architecture, dimensional modeling, and building resilient
 
 | Project | Highlights | Core Stack | Repository & Download |
 | :--- | :--- | :--- | :--- |
-| **⚔️ Object-Oriented Terminal RPG** | Jeu de rôle tour par tour développé from scratch : gestion de l'état, inventaire modulaire, algorithme d'équilibrage de combat et boucle d'événements. | `Python 3` `OOP` | [mathiasspeedy-rgb/rpg](https://github.com/mathiasspeedy-rgb/rpg) • [Download ZIP](Projects/zip/RPG.zip) |
-| **🔢 Sudoku Generator & Solver** | Résolveur d'algorithme par backtracking optimisé avec validation d'états de grille et génération dynamique selon le niveau de difficulté. | `Python 3` `Algorithms` | [mathiasspeedy-rgb/sudoku](https://github.com/mathiasspeedy-rgb/sudoku) • [Download ZIP](Projects/zip/sudoku.zip) |
+| **⚔️ Object-Oriented Terminal RPG** | Jeu de rôle tour par tour développé from scratch : gestion de l'état, inventaire modulaire, algorithme d'équilibrage de combat et boucle d'événements. | `Python` `OOP` | [View Project](https://github.com/mathiasspeedy-rgb/RPG) • [Download ZIP](https://github.com/mathiasspeedy-rgb/RPG/zip/RPG.zip) |
+| **🔢 Sudoku Generator & Solver** | Résolveur d'algorithme par backtracking optimisé avec validation d'états de grille et génération dynamique selon le niveau de difficulté. | `Python` `Algorithms` `OOP`| [View Project](https://github.com/mathiasspeedy-rgb/Sudoku) • [Download ZIP](https://github.com/mathiasspeedy-rgb/Sudoku/zip/Sudoku.zip) |
 
 ---
 
