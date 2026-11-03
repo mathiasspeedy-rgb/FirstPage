@@ -9,7 +9,6 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathias_Gonzalez_Gomez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathias-gonzalez-gomez-3011a0244)
   [![Email](https://img.shields.io/badge/Email-mathias.speedy%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mathias.speedy@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-mathiasspeedy--rgb-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mathiasspeedy-rgb)
   [![Status](https://img.shields.io/badge/Availability-Internship%20%2F%20Junior%20(Immediate)-brightgreen?style=flat-square)](#contact--links)
 
 </div>
