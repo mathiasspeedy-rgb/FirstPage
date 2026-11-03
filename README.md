@@ -9,6 +9,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathias_Gonzalez_Gomez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathias-gonzalez-gomez)
   [![Email](https://img.shields.io/badge/Email-mathias.speedy%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mathias.speedy@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-mathiasspeedy--rgb-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mathiasspeedy-rgb)
   [![Status](https://img.shields.io/badge/Availability-Internship%20%2F%20Junior%20(Immediate)-brightgreen?style=flat-square)](#contact--links)
 
 </div>
@@ -17,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-Passionate about datas, dimensional modeling,coding, and building resilient end-to-end data pipelines. Actively seeking a **3 to 6-month internship** or an entry-level position as a **Junior Data Engineer**.
+Passionate about data architecture, dimensional modeling, and building resilient end-to-end data pipelines. Actively seeking a **3 to 6-month internship** or an entry-level position as a **Junior Data Engineer**.
 
 - 🎓 **Data Engineering Training (2026)**: Medallion architecture (Bronze/Silver/Gold), star/snowflake schemas (SCD Type 1 & 2), workflow orchestration, and resilient ETL/ELT pipelines.
 - 🛠️ **Technical Background**: Solid IT foundation (CESS & CQ6 Don Bosco), strong algorithmic logic in Python, and analytical problem-solving skills.
@@ -46,6 +47,8 @@ Passionate about datas, dimensional modeling,coding, and building resilient end-
 <p align="left">
   <b>Databases, DevOps & Tools</b><br/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux%20%2F%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
@@ -53,24 +56,25 @@ Passionate about datas, dimensional modeling,coding, and building resilient end-
 
 ### 🚀 Data Engineering Projects
 
-| Project | Highlights & Architecture | Core Stack | Links |
+| Project | Highlights & Architecture | Core Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **🏀 NBA Analytics Pipeline (Capstone)** | End-to-end Medallion architecture (Bronze/Silver/Gold). Automated ingestion, benchmarked Polars vs SQL processing, SCD tracking, and containerized DAG scheduling. | `Python` `Polars` `SQL Server` `Airflow` `Docker` | [Repository](../../nba-pipeline) • [Architecture Guide](../../nba-pipeline#architecture) |
-| **🚨 Fatal Police Shooting DWH** | Enterprise dimensional warehouse (Star Schema). Automated data cleaning, fuzzy matching deduplication, demographic enrichment, and SCD Type 2 historicization. | `SSIS` `SQL Server` `T-SQL` | [Repository](../../fatal-police-shooting) • [Download Package](Projects/zip/etl_fatal_police_shooting.zip) |
-| **🎵 Chinook Store Analytics** | Relational schema modeling, dimensional design, and advanced analytical SQL queries (window functions, cohort analysis, revenue metrics). | `SQL Server` `T-SQL` `ETL` | [Repository](../../chinook-etl) |
+| **🏀 NBA Analytics Pipeline (Capstone)** | Architecture Medallion (Bronze/Silver/Gold) de bout en bout. Ingestion automatisée, comparatif de performance Polars vs SQL, gestion SCD et orchestration DAGs Airflow conteneurisés. | `Python` `Polars` `SQL Server` `Airflow` `Docker` | [mathiasspeedy-rgb/nba-etl-pipeline](https://github.com/mathiasspeedy-rgb/nba-etl-pipeline) |
+| **🚨 Fatal Police Shooting Pipeline** | Pipeline ETL avec nettoyage de données, déduplication (fuzzy matching), enrichissement démographique et modélisation en Data Warehouse relationnel. | `Python` `SQL Server` `T-SQL` | [mathiasspeedy-rgb/fatal-shooting-pipeline](https://github.com/mathiasspeedy-rgb/fatal-shooting-pipeline) |
+| **📦 Fatal Police Shooting (SSIS Edition)** | Implémentation du DWH avec les outils Microsoft BI : packages SSIS, flux de contrôle/données, historisation SCD Type 2 et transformations T-SQL. | `SSIS` `SQL Server` `T-SQL` | [mathiasspeedy-rgb/fatal-shooting-pipeline-ssis](https://github.com/mathiasspeedy-rgb/fatal-shooting-pipeline-ssis) |
 
 ---
 
 ### 🧩 Software & Algorithmic Projects
 
-| Project | Highlights | Core Stack | Links |
+| Project | Highlights | Core Stack | Repository & Download |
 | :--- | :--- | :--- | :--- |
-| **⚔️ Object-Oriented Terminal RPG** | Turn-based RPG built from scratch. State management, modular inventory system, combat balance algorithms, and custom game loop logic. | `Python 3` `OOP` | [Repository](../../python-rpg) • [Download ZIP](Projects/zip/RPG.zip) |
-| **🔢 Sudoku Generator & Solver** | High-performance backtracking solver with board state validation and dynamic difficulty puzzle generation. | `Python 3` `Algorithms` | [Repository](../../sudoku-solver) • [Download ZIP](Projects/zip/sudoku.zip) |
+| **⚔️ Object-Oriented Terminal RPG** | Jeu de rôle tour par tour développé from scratch : gestion de l'état, inventaire modulaire, algorithme d'équilibrage de combat et boucle d'événements. | `Python 3` `OOP` | [mathiasspeedy-rgb/rpg](https://github.com/mathiasspeedy-rgb/rpg) • [Download ZIP](Projects/zip/RPG.zip) |
+| **🔢 Sudoku Generator & Solver** | Résolveur d'algorithme par backtracking optimisé avec validation d'états de grille et génération dynamique selon le niveau de difficulté. | `Python 3` `Algorithms` | [mathiasspeedy-rgb/sudoku](https://github.com/mathiasspeedy-rgb/sudoku) • [Download ZIP](Projects/zip/sudoku.zip) |
 
 ---
 
 ### 📬 Contact & Links
-- **Email:** [mathias.speedy@gmail.com](mailto:mathias.speedy@gmail.com)
+- **GitHub:** [github.com/mathiasspeedy-rgb](https://github.com/mathiasspeedy-rgb)
 - **LinkedIn:** [linkedin.com/in/mathias-gonzalez-gomez](https://www.linkedin.com/in/mathias-gonzalez-gomez)
-- **Location:** Brussels, Belgium
+- **Email:** [mathias.speedy@gmail.com](mailto:mathias.speedy@gmail.com)
+- **Location:** Brussels (1030), Belgium
